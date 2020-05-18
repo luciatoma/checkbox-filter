@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing and matches snapshot 1`] = `
+<div
+  className="sc-Axmtr jubbmN"
+>
+  <div>
+    <label
+      className="sc-AxjAm kvROna"
+    >
+      Dames
+      <input
+        checked={false}
+        className="sc-AxirZ jPYqwg"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <span
+        className="sc-AxiKw dKRkLQ"
+      />
+    </label>
+    <label
+      className="sc-AxjAm kvROna"
+    >
+      Heren
+      <input
+        checked={false}
+        className="sc-AxirZ jPYqwg"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <span
+        className="sc-AxiKw dKRkLQ"
+      />
+    </label>
+    <label
+      className="sc-AxjAm kvROna"
+    >
+      Kids
+      <input
+        checked={false}
+        className="sc-AxirZ jPYqwg"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <span
+        className="sc-AxiKw dKRkLQ"
+      />
+    </label>
+  </div>
+  <div>
+    <button
+      className="sc-AxhUy cKAyoq"
+      disabled={true}
+      onClick={[Function]}
+      type="button"
+    >
+      Show categories
+    </button>
+  </div>
+</div>
+`;
